@@ -1,6 +1,6 @@
 from flask import Flask
 from flask_restful import Api, Resource
-from helper import *
+from utils.helper import *
 from flask import request
 import os
 import json
